@@ -1,4 +1,4 @@
-/* /Layout/MainLayout.razor.rz.scp.css */
+/* samples/Layout/MainLayout.razor.rz.scp.css */
 .page[b-r8b0rg4qq9] {
     position: relative;
     display: flex;
@@ -76,7 +76,7 @@ main[b-r8b0rg4qq9] {
         padding-right: 1.5rem !important;
     }
 }
-/* /Pages/Home.razor.rz.scp.css */
+/* samples/Pages/Home.razor.rz.scp.css */
 .dropzone[b-nt1mav9fl2] {
     display: flex;
     width: 75%;
