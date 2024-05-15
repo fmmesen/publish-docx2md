@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "docx2md-wasm",
   "resources": {
-    "hash": "sha256-mySo8ZDLbkAVVLToBmEGT9Q06qefxvDPEJG+uy+i6TE=",
+    "hash": "sha256-T+7XNmphL1POjFJ7N34q2X/BK3C9/QwGTVWAiFC+678=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.5ywdngm1yv.js": "sha256-znOsotSq2Mq0ulefFirBbRYuX2yNJcR4el1CY3VxUJU="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "DocumentFormat.OpenXml.wasm": "sha256-gnZDgm7korbfj0mi8Z2n7ZJkU2pCse5/gtRVo8OiRx8=",
       "docx_lib.wasm": "sha256-WZAthrnB7+1hwxfjjUbr/h18rECT/Kjque5gN8MncE4=",
-      "docx2md-wasm.wasm": "sha256-rBntI8L2FUEBVfgUlg0BRDc2XrntZ9cfQvRDrcE6Hno=",
+      "docx2md-wasm.wasm": "sha256-2ParrIKpJ3GtyMW9RboCN+0FPTJcm+gGigQPWqtnd+E=",
       "HtmlToOpenXml.wasm": "sha256-NNSA47ip2s4ZLwt+CVEizeXKJ3pa4w0Ewhtx6OGjwOE=",
       "Mammoth.wasm": "sha256-A6NJ7nzCnVv+p6Y5kGk6Uoo+v0am6JMlx7TFGoQvv1Q=",
       "Markdig.wasm": "sha256-c9zlrKfcsjBxSy3hrCop9ob9QSzqEHHAQ1MqvcOq4yg=",
